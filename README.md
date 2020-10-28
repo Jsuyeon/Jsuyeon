@@ -1,7 +1,7 @@
 ### Hi I am Suyeon Nice to meet you 👋
 
 
- [![soy1904's github stats](https://github-readme-stats.vercel.app/api?username=soy1904&show_icons=true&theme=buefy)](https://github.com/soy1904/github-readme-stats)
+ [![soy1904's github stats](https://github-readme-stats.vercel.app/api?username=soy1904&show_icons=true&theme=buefy)](https://github.com/Jsuyeon/github-readme-stats)
   
   [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=soy1904&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
