@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Suyeon Nice to meet you 👋
 
 
  [![soy1904's github stats](https://github-readme-stats.vercel.app/api?username=soy1904&show_icons=true&theme=buefy)](https://github.com/soy1904/github-readme-stats)
