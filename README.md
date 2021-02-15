@@ -1,8 +1,16 @@
 ### Hi I am Suyeon Nice to meet you 👋
 My history
+
+
 2015/03 - 부경대학교 해양학과 입학
+
+
 2017/03 - 부경대학교 환경대기과학과 복수전공
+
+
 2019/09/01~2019/12/01 태풍위원회(Typhoon Committe, Macao) 인턴쉽
+
+
 2021/03 - 부경대학교 대학원 지구환경시스템과학부 해양학전공 입학
 
  [![soy1904's github stats](https://github-readme-stats.vercel.app/api?username=Jsuyeon&show_icons=true&theme=buefy)](https://github.com/Jsuyeon/github-readme-stats)
