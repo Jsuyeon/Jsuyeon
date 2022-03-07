@@ -1,4 +1,7 @@
-### Hi I am Suyeon Nice to meet you 👋
+### Hi I am Suyeon Nice to meet you 👋  
+
+### Ocean Data always with me 🌊  
+
 My history
 
 
@@ -12,6 +15,11 @@ My history
 
 
 2021/03 - 부경대학교 대학원 지구환경시스템과학부 해양학전공 입학
+
+
+##### My Language
+<img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Fortran-3DDC84?style=flat-square&logo=Fortran&logoColor=black"/>
+
 
  [![soy1904's github stats](https://github-readme-stats.vercel.app/api?username=Jsuyeon&show_icons=true&theme=buefy)](https://github.com/Jsuyeon/github-readme-stats)
   
